@@ -434,10 +434,7 @@ The application is designed to place common printer-repair tasks into a simple m
 
 ---
 
-
 > 🔒 **This repository may be publicly visible on GitHub, but the software remains proprietary. Public access does not grant permission to modify, redistribute, or re-license the source code.**
-
-Please contact the copyright holder if you are interested in authorized modification, development, collaboration, integration, redistribution, or licensing.
 
 ---
 
